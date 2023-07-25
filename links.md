@@ -9,8 +9,8 @@ Here we will include links, organized by topic or type to helpful resources
 
 ### Python
 
-- [python.org](http://www.python.org)
-- [python documentation : beginners' guide](https://wiki.python.org/moin/BeginnersGuide)
+- [python.org](http://www.python.org) - the source and branchoff point for python. Here you can download it, find documentation and getting started guides, advanced information and tutorials.
+- [python documentation : beginners' guide](https://wiki.python.org/moin/BeginnersGuide) - a link to an excellent beginner's guide for python.
 
 #### Pandas
 - [pydata.org](https://pandas.pydata.org/)
