@@ -21,6 +21,7 @@ Here we will include links, organized by topic or type to helpful resources
 - [seaborn tutorial](https://seaborn.pydata.org/tutorial.html)
 
 #### Matplotlib
+- [matplotlib cheat sheets](https://matplotlib.org/cheatsheets/) - these are really handy to have on your machine ready to go. Great references.
 
 #### Numpy
 
